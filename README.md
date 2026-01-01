@@ -190,7 +190,9 @@ Please share your usage methods and execution results through PRs!
 ### 1. **Clone the repository**
 ```bash
 git clone https://github.com/Abhishek222006/Decepticon-Ai-powered-red-team-testing-agent.git
-cd Decepticon
+cd Decepticon-Ai-powered-red-team-testing-agent
+
+
 ```
 
 ### 2. **Install dependencies** 
