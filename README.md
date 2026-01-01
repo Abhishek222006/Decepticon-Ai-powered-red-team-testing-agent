@@ -84,7 +84,7 @@ https://github.com/user-attachments/assets/92e1dffd-92af-4d63-b682-c4a1810586a9
 
 ## 💡 What is **Vibe Hacking** ?
 
-**Vibe Hacking** is a new paradigm in Offensive Security defined by PurpleAILAB.  
+**Vibe Hacking** is a new paradigm in Offensive Security 
 
 Unlike traditional red teaming methods that rely on manual execution, **AI agents autonomously perform red teaming tasks** in Vibe Hacking.
 
